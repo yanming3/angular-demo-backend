@@ -1,0 +1,263 @@
+{
+  "result": [
+    {
+      "city": "上海",
+      "district": "长宁",
+      "province": "上海",
+      "regionId": 1
+    },
+    {
+      "city": "上海",
+      "district": "静安",
+      "province": "上海",
+      "regionId": 2
+    },
+    {
+      "city": "上海",
+      "district": "普陀",
+      "province": "上海",
+      "regionId": 3
+    },
+    {
+      "city": "上海",
+      "district": "徐汇",
+      "province": "上海",
+      "regionId": 4
+    },
+    {
+      "city": "上海",
+      "district": "浦东",
+      "province": "上海",
+      "regionId": 5
+    },
+    {
+      "city": "上海",
+      "district": "闸北",
+      "province": "上海",
+      "regionId": 6
+    },
+    {
+      "city": "上海",
+      "district": "卢湾",
+      "province": "上海",
+      "regionId": 7
+    },
+    {
+      "city": "上海",
+      "district": "黄浦",
+      "province": "上海",
+      "regionId": 8
+    },
+    {
+      "city": "上海",
+      "district": "闵行",
+      "province": "上海",
+      "regionId": 9
+    },
+    {
+      "city": "上海",
+      "district": "虹口",
+      "province": "上海",
+      "regionId": 10
+    },
+    {
+      "city": "上海",
+      "district": "杨浦",
+      "province": "上海",
+      "regionId": 11
+    },
+    {
+      "city": "上海",
+      "district": "宝山",
+      "province": "上海",
+      "regionId": 12
+    },
+    {
+      "city": "上海",
+      "district": "嘉定",
+      "province": "上海",
+      "regionId": 13
+    },
+    {
+      "city": "上海",
+      "district": "松江",
+      "province": "上海",
+      "regionId": 14
+    },
+    {
+      "city": "上海",
+      "district": "近郊",
+      "province": "上海",
+      "regionId": 15
+    },
+    {
+      "city": "上海",
+      "district": "青浦",
+      "province": "上海",
+      "regionId": 18
+    },
+    {
+      "city": "上海",
+      "district": "奉贤",
+      "province": "上海",
+      "regionId": 127
+    },
+    {
+      "city": "上海",
+      "district": "金山",
+      "province": "上海",
+      "regionId": 128
+    },
+    {
+      "city": "上海",
+      "district": "崇明县",
+      "province": "上海",
+      "regionId": 129
+    },
+    {
+      "city": "上海",
+      "district": "南汇",
+      "province": "上海",
+      "regionId": 130
+    },
+    {
+      "city": "广州",
+      "district": "天河",
+      "province": "广州",
+      "regionId": 131
+    },
+    {
+      "city": "广州",
+      "district": "海珠",
+      "province": "广州",
+      "regionId": 132
+    },
+    {
+      "city": "广州",
+      "district": "番禺",
+      "province": "广州",
+      "regionId": 133
+    },
+    {
+      "city": "广州",
+      "district": "白云",
+      "province": "广州",
+      "regionId": 134
+    },
+    {
+      "city": "广州",
+      "district": "荔湾",
+      "province": "广州",
+      "regionId": 135
+    },
+    {
+      "city": "广州",
+      "district": "越秀",
+      "province": "广州",
+      "regionId": 136
+    },
+    {
+      "city": "深圳",
+      "district": "南山",
+      "province": "深圳",
+      "regionId": 137
+    },
+    {
+      "city": "深圳",
+      "district": "宝安",
+      "province": "深圳",
+      "regionId": 138
+    },
+    {
+      "city": "深圳",
+      "district": "福田",
+      "province": "深圳",
+      "regionId": 139
+    },
+    {
+      "city": "深圳",
+      "district": "罗湖",
+      "province": "深圳",
+      "regionId": 140
+    },
+    {
+      "city": "深圳",
+      "district": "龙岗",
+      "province": "深圳",
+      "regionId": 141
+    },
+    {
+      "city": "北京",
+      "district": "东城",
+      "province": "北京",
+      "regionId": 146
+    },
+    {
+      "city": "北京",
+      "district": "丰台",
+      "province": "北京",
+      "regionId": 147
+    },
+    {
+      "city": "北京",
+      "district": "大兴",
+      "province": "北京",
+      "regionId": 148
+    },
+    {
+      "city": "北京",
+      "district": "宣武",
+      "province": "北京",
+      "regionId": 149
+    },
+    {
+      "city": "北京",
+      "district": "崇文",
+      "province": "北京",
+      "regionId": 150
+    },
+    {
+      "city": "北京",
+      "district": "昌平",
+      "province": "北京",
+      "regionId": 151
+    },
+    {
+      "city": "北京",
+      "district": "朝阳",
+      "province": "北京",
+      "regionId": 152
+    },
+    {
+      "city": "北京",
+      "district": "海淀",
+      "province": "北京",
+      "regionId": 153
+    },
+    {
+      "city": "北京",
+      "district": "石景山",
+      "province": "北京",
+      "regionId": 154
+    },
+    {
+      "city": "北京",
+      "district": "西城",
+      "province": "北京",
+      "regionId": 155
+    },
+    {
+      "city": "北京",
+      "district": "通州",
+      "province": "北京",
+      "regionId": 156
+    },
+    {
+      "city": "北京",
+      "district": "顺义",
+      "province": "北京",
+      "regionId": 157
+    }
+  ],
+  "success": true
+}

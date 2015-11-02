@@ -1,0 +1,233 @@
+{
+  "result": {
+    "total": 3651,
+    "data": [
+      {
+        "city": "上海",
+        "district": "长宁",
+        "locationHint": "中山西路1055、1065号",
+        "province": "上海",
+        "siteId": 1,
+        "siteName": "SOHO中山广场",
+        "version": 0
+      },
+      {
+        "city": "上海",
+        "district": "长宁",
+        "locationHint": "延安西路1303号",
+        "province": "上海",
+        "siteId": 2,
+        "siteName": "万众大厦",
+        "version": 0
+      },
+      {
+        "city": "上海",
+        "district": "长宁",
+        "locationHint": "新华路660号",
+        "province": "上海",
+        "siteId": 3,
+        "siteName": "万宝国际商务中心",
+        "version": 0
+      },
+      {
+        "city": "上海",
+        "district": "长宁",
+        "locationHint": "延安西路500号",
+        "province": "上海",
+        "siteId": 4,
+        "siteName": "万宝国际广场",
+        "version": 0
+      },
+      {
+        "city": "上海",
+        "district": "长宁",
+        "locationHint": "茅台路533号",
+        "province": "上海",
+        "siteId": 5,
+        "siteName": "上服创意园",
+        "version": 0
+      },
+      {
+        "city": "上海",
+        "district": "长宁",
+        "locationHint": "兴业路8号",
+        "province": "上海",
+        "siteId": 6,
+        "siteName": "上海万都中心大厦",
+        "version": 0
+      },
+      {
+        "city": "上海",
+        "district": "长宁",
+        "locationHint": "延安西路2201号",
+        "province": "上海",
+        "siteId": 7,
+        "siteName": "上海国际贸易中心",
+        "version": 0
+      },
+      {
+        "city": "上海",
+        "district": "长宁",
+        "locationHint": "长寿路652号",
+        "province": "上海",
+        "siteId": 8,
+        "siteName": "上海时尚产业园",
+        "version": 0
+      },
+      {
+        "city": "上海",
+        "district": "长宁",
+        "locationHint": "定西路727号",
+        "province": "上海",
+        "siteId": 9,
+        "siteName": "上海映巷创意工场",
+        "version": 0
+      },
+      {
+        "city": "上海",
+        "district": "长宁",
+        "locationHint": "长宁区天山支路168号",
+        "province": "上海",
+        "siteId": 10,
+        "siteName": "上海虹桥时代电子广场",
+        "version": 0
+      },
+      {
+        "city": "上海",
+        "district": "长宁",
+        "locationHint": "延安西路2299号",
+        "province": "上海",
+        "siteId": 11,
+        "siteName": "世贸商城",
+        "version": 0
+      },
+      {
+        "city": "上海",
+        "district": "长宁",
+        "locationHint": "杨宅路199号",
+        "province": "上海",
+        "siteId": 12,
+        "siteName": "东华创意园",
+        "version": 0
+      },
+      {
+        "city": "上海",
+        "district": "长宁",
+        "locationHint": "延安西路1882号",
+        "province": "上海",
+        "siteId": 13,
+        "siteName": "东华大学创意园",
+        "version": 0
+      },
+      {
+        "city": "上海",
+        "district": "长宁",
+        "locationHint": "金钟路658号...",
+        "province": "上海",
+        "siteId": 14,
+        "siteName": "东华大学科技园",
+        "version": 0
+      },
+      {
+        "city": "上海",
+        "district": "长宁",
+        "locationHint": "延安西路1882号",
+        "province": "上海",
+        "siteId": 15,
+        "siteName": "东华时尚创意园",
+        "version": 0
+      },
+      {
+        "city": "上海",
+        "district": "长宁",
+        "locationHint": "金钟路658弄10号",
+        "province": "上海",
+        "siteId": 16,
+        "siteName": "东华纺织科技园区",
+        "version": 0
+      },
+      {
+        "city": "上海",
+        "district": "长宁",
+        "locationHint": "仙霞路345号",
+        "province": "上海",
+        "siteId": 17,
+        "siteName": "东方世纪大厦",
+        "version": 0
+      },
+      {
+        "city": "上海",
+        "district": "长宁",
+        "locationHint": "福泉北路388号",
+        "province": "上海",
+        "siteId": 18,
+        "siteName": "东方国信商务广场",
+        "version": 0
+      },
+      {
+        "city": "上海",
+        "district": "长宁",
+        "locationHint": "娄山关路85号",
+        "province": "上海",
+        "siteId": 19,
+        "siteName": "东方国际大厦",
+        "version": 0
+      },
+      {
+        "city": "上海",
+        "district": "长宁",
+        "locationHint": "仙霞路333号",
+        "province": "上海",
+        "siteId": 20,
+        "siteName": "东方维京大厦",
+        "version": 0
+      },
+      {
+        "city": "上海",
+        "district": "长宁",
+        "locationHint": "红宝石路500号",
+        "province": "上海",
+        "siteId": 21,
+        "siteName": "东银中心",
+        "version": 0
+      },
+      {
+        "city": "上海",
+        "district": "长宁",
+        "locationHint": "淮海西路666号",
+        "province": "上海",
+        "siteId": 22,
+        "siteName": "中山万博国际中心",
+        "version": 0
+      },
+      {
+        "city": "上海",
+        "district": "长宁",
+        "locationHint": "凯旋路1580号",
+        "province": "上海",
+        "siteId": 23,
+        "siteName": "中山万博广场",
+        "version": 0
+      },
+      {
+        "city": "上海",
+        "district": "长宁",
+        "locationHint": "天山西路787-789号",
+        "province": "上海",
+        "siteId": 24,
+        "siteName": "中山国际广场",
+        "version": 0
+      },
+      {
+        "city": "上海",
+        "district": "长宁",
+        "locationHint": "江苏路121号",
+        "province": "上海",
+        "siteId": 25,
+        "siteName": "中西大厦",
+        "version": 0
+      }
+    ]
+  },
+  "success": true
+}
